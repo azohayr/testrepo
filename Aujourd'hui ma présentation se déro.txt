@@ -1,0 +1,36 @@
+Aujourd'hui ma présentation se déroulera au sujet des modifications et des ajouts appliquée à notre rapport power BI en considération de vos besoins cités la fois passé
+
+=> La page générale comporte 
+
+   *un visuel  qui montre les 15 mots plus fréquents de notre nuage de mot ( réponse normalisée).
+
+
+   *histogramme affichant la distribution du nombre de mots  et la somme des interventions  convenant à chaque réponse, la couleur verte
+   représente la valeur maximale de nombre de mots et la couleur rouge représente la valeur minimale 
+
+   
+   * un treemap representant la somme de nombre de mots pour une reponse choisi 
+
+
+
+=> La page comparatif simple comporte 
+
+* la mise en place d'un diagramme  en rayon de soleil plus lisible  et visuellement claire qui donne le regroupement des mots de la    reponse normalisé par thematique par sujet ou par topic avec un boutton permettant d afficher le visuel en mode plein ecran sur une page web
+
+* l'Ajout d'un graphique en courbes et un histogramme groupé pour afficher le nombre de mots et la durée de chaque réponse.
+
+* Aussi l'inclusion d'un graphique empilé pour visualiser le nombre de mots de chaque réponse.
+
+=> La vue comparatif comporte 
+
+* la mise en oeuvre  de deux dendogrammes avec deux boutons placé aux entetes de chaque visuel et les filtres sur les marges de notre 
+  dashbord 
+
+
+Vu que la dernière fois nous avons examiné ensemble la page d'accueil et la page générale, aujourd'hui je vais essayer de vous présenter rapidement ce que nous avons fait et modifié. En ce qui concerne la page générale, nous avons effectué des modifications sur le graphique en utilisant des courbes et un histogramme groupé. Ce graphique affiche la distribution du nombre de mots et la somme des interventions en fonction de chaque réponse.
+
+Plus précisément, les courbes représentent la somme des interventions pour chaque réponse, tandis que l'histogramme groupé affiche le nombre de mots pour chaque réponse. Vous avez remarqué qu'il y a un histogramme en vert et un autre en rouge. Le premier représente la réponse avec le plus grand nombre de mots, tandis que l'histogramme en rouge représente la réponse contenant le moins de mots.
+
+Nous avons également essayé de trier les valeurs de l'axe horizontal par ordre alphabétique afin de faciliter la lecture de ce graphique.
+
+Passons maintenant à la page de la vue comparative simple. Nous y avons ajouté un graphique en courbes et un histogramme groupé pour afficher le nombre de mots et la durée de chaque réponse. De plus, nous avons inclus un graphique empilé pour visualiser le nombre de mots de chaque réponse.
